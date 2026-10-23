@@ -26,19 +26,19 @@
 - **Kỹ thuật áp dụng:** Khởi tạo giao diện bằng code C#, Data Binding hai chiều với `BindingList<T>` & `BindingSource`, xử lý tính toán chi phí tự động trên DataGridView, validation dữ liệu.
 - **Hình ảnh minh họa Giao diện:**
 
-![Khởi tạo giao diện Bài 1](docs/bai1_01_khoi_tao_giao_dien.png)
+![Khởi tạo giao diện Bài 1](docs/bai1_01_khoi_tao_giao_dien.png)  
 *Mô tả: Giao diện chính khởi tạo hoàn chỉnh với DataGridView và các trường nhập liệu.*
 
-![Thêm đặt phòng Bài 1](docs/bai1_02_them_dat_phong.png)
+![Thêm đặt phòng Bài 1](docs/bai1_02_them_dat_phong.png)  
 *Mô tả: Thêm mới hồ sơ đặt phòng thành công, tự động tính tổng tiền và cập nhật DataGridView.*
 
-![Xóa phòng Bài 1](docs/bai1_03_xoa_phong.png)
+![Xóa phòng Bài 1](docs/bai1_03_xoa_phong.png)  
 *Mô tả: Xóa dòng phòng được chọn và tự động cập nhật lại danh sách.*
 
-![Tìm kiếm phòng Bài 1](docs/bai1_04_tim_kiem_phong.png)
+![Tìm kiếm phòng Bài 1](docs/bai1_04_tim_kiem_phong.png)  
 *Mô tả: Tìm kiếm khách hàng theo Mã phòng hoặc Tên khách hàng thành công.*
 
-![Validation lỗi Bài 1](docs/bai1_05_validation_loi.png)
+![Validation lỗi Bài 1](docs/bai1_05_validation_loi.png)  
 *Mô tả: Kiểm tra hợp lệ dữ liệu nhập vào và đưa ra cảnh báo khi thiếu thông tin bắt buộc.*
 
 ---
